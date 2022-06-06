@@ -1,0 +1,15 @@
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+img{
+  height: 200px;
+  width: 180pxvh;
+}
+.money{
+  text-align: center;
+}
+s
