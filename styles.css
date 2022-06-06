@@ -1,4 +1,4 @@
-.centered {
+.image {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -9,7 +9,6 @@ img{
   height: 200px;
   width: 180pxvh;
 }
-.money{
+.text{
   text-align: center;
 }
-s
